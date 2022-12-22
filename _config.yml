@@ -15,14 +15,14 @@
 # in the templates via {{ site.myvariable }}.
 title: Front no pelo
 description: > # this means to ignore newlines until "baseurl:"
-  Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
-url: "https://shawnteoh.github.io"
+  Falando sobre a profissão Front-End sem frescuras.
+url: "https://paulo-campos.github.io"
 permalink: /:year/:month/:day/:title
 repository: paulo-campos/paulo-campos
 paginate: 5
 
 # MatJek specific configurations
-github_profile: "https://github.com/ShawnTeoh"
+github_profile: "https://github.com/paulo-campos"
 user: "Paulo Campos"
 user_email: "paulovitorwd@gmail.com"
 contact_url: "https://goo.gl/tVljbV"
